@@ -7,7 +7,7 @@
 - [Prerequisites](#prerequisites)
 - [Architecture Diagram](#architecture-diagram)
 - [Environment](#environment)
-- [Building and running](#building-and-running)
+- [Installation and running](#installation-and-running)
 - [Running tests](#running-tests)
 
 ## Description
@@ -45,7 +45,7 @@ Work in Progress
 
 - Clone the repository
 - Open the project in your IDE
-- Configure the environment variables in the application.properties file
+- Configure the environment variables in the application.properties file(You can find the file in the resources folder)
 - Configure the environment variables in the docker-compose.yml file
 - MongoDB is running in a docker container. You can use the provided docker-compose file to run it.
 - Run the application
