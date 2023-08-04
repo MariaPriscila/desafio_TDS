@@ -8,7 +8,7 @@
 - [Architecture Diagram](#architecture-diagram)
 - [Environment](#environment)
 - [Installation and running](#installation-and-running)
-- [Running tests](#running-tests)
+- [Endpoints](#endpoints)
 
 ## Description
 
