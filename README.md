@@ -7,7 +7,7 @@
 - [Prerequisites](#prerequisites)
 - [Architecture Diagram](#architecture-diagram)
 - [Environment](#environment)
-- [Building and running](#building-and-running)
+- [Installation and running](#installation-and-running)
 - [Running tests](#running-tests)
 
 ## Description
@@ -16,7 +16,7 @@ URL Shortener is a microservice developed in Java 8+ using Spring Boot and Mongo
 
 ## Stack
 
-- **[Java JDK 8+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)**: For Server-side Development
+- **[Java JDK 17+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)**: Programming Language
 - **[Spring Boot](https://spring.io/projects/spring-boot)**: Web Framework
 - **[Spring Data/JPA](https://spring.io/projects/spring-data-jpa)**: Persistence Framework for MongoDB
 - **[MongoDB](https://www.mongodb.com/)**: Database
@@ -25,7 +25,7 @@ URL Shortener is a microservice developed in Java 8+ using Spring Boot and Mongo
 
 ## Prerequisites
 
-- **[Required]** [Java JDK 8+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
+- **[Required]** [Java JDK 17+](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
 - **[Required]** [Docker 19+](https://docs.docker.com/install/)
 - **[Required]** [Docker Compose 1.23+](https://docs.docker.com/compose/install/#install-compose)
 - **[Required]** [Gradle 6+](https://gradle.org/install/)
